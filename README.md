@@ -9,7 +9,7 @@ To develop a Django application to store and retrieve data from a Book database 
 
 ## Entity Relationship Diagram
 
-![alt text](<Screenshot 2024-03-20 160647.png>)
+![alt text](<Screenshot 2024-03-20 1607.png>)
 
 
 ## DESIGN STEPS
@@ -51,7 +51,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![alt text](<Screenshot 2024-03-20 183801.png>)
+![alt text](<Screenshot 2024-03-20 1838.png>)
 
 
 ## RESULT
