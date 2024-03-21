@@ -1,5 +1,8 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 21-03-2024
+## Name: Suriya Pravin M
+## Reg.no: 212223230223
+## Dept: AI&DS
 
 ## AIM
 To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
